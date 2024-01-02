@@ -2,6 +2,8 @@
 
 pkg update && pkg upgrade -y
 
+pip install colorama
+
 pkg install git -y
 
 git clone https://github.com/MR-JHONz/OsintTSC.git
