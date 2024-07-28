@@ -6,8 +6,8 @@ pip install colorama
 
 pkg install git -y
 
-git clone https://github.com/MR-JHONz/OsintTSC.git
+git clone https://github.com/IKHSAN-PROJCT/OsintTSC.git
 
 cd OsintTSC
 
-bash TSC_OSINT.sh <b>Atau</b> ./TSC_OSINT.sh
+bash TSC_OSINT.sh
